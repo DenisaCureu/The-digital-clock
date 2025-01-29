@@ -10,7 +10,7 @@ The digital clock displays the time and date on a digital screen, so you can cha
 
 The complete circuit of this project is:
 
-![Image](https://github.com/user-attachments/assets/79015b7c-e4f0-4f67-b9f2-9ca59dce9e76)
+![Image](https://github.com/user-attachments/assets/7fb642e3-f297-40b5-8a3a-27dc84f15e9f)
 
 
 
